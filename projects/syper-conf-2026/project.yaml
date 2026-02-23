@@ -1,0 +1,10 @@
+homepage: "https://github.com/CataZM/syper-conf-2026"
+language: c
+primary_contact: "catazuppa@gmail.com"
+
+fuzzing_engines:
+  - libfuzzer
+
+sanitizers:
+  - address
+  - undefined
